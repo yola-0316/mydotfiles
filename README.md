@@ -1,3 +1,3 @@
 # MyDotfiles
 
-A elegant method to manage your dotfiles.
+An elegant method to manage your dotfiles.
